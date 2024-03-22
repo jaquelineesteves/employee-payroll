@@ -13,7 +13,7 @@ After show the table, click inspect -> console to see the average salary and a r
 
 
 
-![console open with a table](assets/images/screenshot.png)
+![console open with a table](Assets/images/screenshot.png)
  
 
 ## Credits
