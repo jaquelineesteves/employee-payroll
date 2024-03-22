@@ -21,9 +21,7 @@ const collectEmployees = function() {
   
 //console.log(employeesArray);
 
-
-
- const displayAverageSalary = function(employeesArray){
+const displayAverageSalary = function(employeesArray){
     let sum = 0;
     for (let i = 0; i<employeesArray.length; i++){
       if (typeof employeesArray[i].salary === 'number') {
@@ -43,9 +41,6 @@ function getRandomEmployee(x){
   return;
 }
 
-  // TODO: Select and display a random employee
-
-  //console.log(getRandomEmployee(employees));
 
 /*
   ====================
